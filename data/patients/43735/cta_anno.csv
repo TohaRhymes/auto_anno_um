@@ -1,0 +1,3 @@
+,col,label
+0,hadm_id,https://biomedit.ch/rdf/sphn-schema/sphn#AdministrativeCase
+1,drug,https://biomedit.ch/rdf/sphn-schema/sphn#Substance

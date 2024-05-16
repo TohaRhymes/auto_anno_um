@@ -1,0 +1,64 @@
+,hadm_id,icustay_id,drug_type,drug,prod_strength,dose_val_rx,dose_unit_rx,form_val_disp,route
+35,112662,,MAIN,Pneumococcal Vac Polyvalent,25mcg/0.5mL Vial,0.5,mL,1,IM
+36,112662,,MAIN,Heparin Flush (10 units/ml),10 Units/mL - 5 mL Syringe,1,mL,0.2,IV
+37,112662,,MAIN,Multivitamins,1 Tablet,1,TAB,1,PO
+38,112662,,MAIN,Ferrous Sulfate,325 mg Tablet,325,mg,1,PO
+39,112662,,MAIN,Ipratropium Bromide Neb,2.5mL Vial,1,NEB,1,IH
+40,112662,,MAIN,Albuterol 0.083% Neb Soln,0.083%;3mL Vial,1,NEB,1,IH
+41,112662,,MAIN,Sertraline,100mg Tablet,100,mg,1,PO
+42,112662,,MAIN,Simvastatin,40mg Tablet,80,mg,2,PO
+43,112662,,MAIN,Levothyroxine Sodium,100mcg Tablet,200,mcg,2,PO
+44,112662,,MAIN,Allopurinol,100mg Tab,100,mg,1,PO
+45,112662,293363.0,MAIN,Pantoprazole,40mg Tablet,40,mg,1,PO
+46,112662,293363.0,MAIN,Furosemide,40mg/4mL Vial,40,mg,1,IV
+47,112662,293363.0,MAIN,Carvedilol,3.125mg Tablet,3.125,mg,1,PO
+48,112662,293363.0,MAIN,Carvedilol,3.125mg Tablet,3.125,mg,1,PO
+49,112662,293363.0,MAIN,Metoprolol Tartrate,25mg Tablet,12.5,mg,0.5,PO
+50,112662,293363.0,MAIN,Heparin,5000 Units / mL- 1mL Vial,5000,UNIT,1,SC
+51,112662,293363.0,MAIN,Furosemide,40mg/4mL Vial,40,mg,1,IV
+52,112662,293363.0,MAIN,Furosemide,40mg/4mL Vial,40,mg,1,IV
+53,112662,293363.0,MAIN,Senna,1 Tablet,1,TAB,1,PO
+54,112662,293363.0,MAIN,Docusate Sodium,100mg Capsule,100,mg,1,PO
+55,112662,,MAIN,Furosemide,40mg/4mL Vial,40,mg,1,IV
+56,112662,,MAIN,Metoprolol Tartrate,5mg/5mL Vial,5,mg,1,IV
+57,112662,,MAIN,Furosemide,40mg/4mL Vial,80,mg,2,IV
+58,112662,,MAIN,Sodium Chloride 0.9%  Flush,Syringe,3,mL,0.6,IV
+59,112662,,MAIN,Metoprolol Tartrate,5mg/5mL Vial,5,mg,1,IV
+60,112662,283181.0,MAIN,Lactulose,20g/30mL Cup,30,mL,1,PO
+61,112662,283181.0,MAIN,Metoprolol Tartrate,25mg Tablet,12.5,mg,0.5,PO
+62,112662,283181.0,MAIN,Rifaximin,200mg Tablet,400,mg,2,PO
+63,112662,283181.0,MAIN,Metoprolol Tartrate,5mg/5mL Vial,5,mg,1,IV
+64,112662,283181.0,MAIN,Fentanyl Citrate,2.5mg/50mL Solution,2.5,mg,1,IV DRIP
+65,112662,283181.0,MAIN,Midazolam,100mg/100mL NS,100,mg,1,IV DRIP
+66,112662,283181.0,MAIN,Propofol,1000mg/100mL Vial,1000,mg,1,IV DRIP
+67,112662,283181.0,MAIN,Atropine Sulfate,1mg/10mL Syringe,1,mg,1,IV
+68,112662,283181.0,MAIN,Chlorhexidine Gluconate 0.12% Oral Rinse,15ml Cup,15,mL,1,ORAL
+69,112662,283181.0,MAIN,Ipratropium Bromide Neb,2.5mL Vial,1,NEB,1,IH
+70,112662,283181.0,MAIN,Ipratropium Bromide MDI,12.9g Inhaler,2,PUFF,0.01,IH
+71,112662,283181.0,MAIN,Albuterol Inhaler,8.5 g Inhaler,2-4,PUFF,0.01-0.02,IH
+72,112662,283181.0,MAIN,Morphine Sulfate,2mg Syringe,2,mg,1,IV
+73,112662,,BASE,1/2 NS,1000mL Bag,1000,mL,1000,IV
+74,112662,,BASE,Vial,Send Vial,1,VIAL,1,IV
+75,112662,293363.0,BASE,0.9% Sodium Chloride,500mL Bag,500,mL,500,IV
+76,112662,,BASE,Iso-Osmotic Dextrose,200ml Bag,200,mL,200,IV
+77,112662,,BASE,0.9% Sodium Chloride (Mini Bag Plus),100mL Bag,100,mL,1,IV
+78,112662,,BASE,NS,100ml,100,mL,100,IV
+79,112662,,BASE,Iso-Osmotic Dextrose,200ml Bag,200,mL,200,IV
+80,112662,,BASE,0.9% Sodium Chloride (Mini Bag Plus),100mL Bag,100,mL,1,IV
+81,112662,,BASE,5% Dextrose,100mL Bag,100,mL,100,IV DRIP
+82,112662,283181.0,BASE,5% Dextrose,100mL Bag,100,mL,100,IV DRIP
+83,112662,283181.0,BASE,Vial,Send Vial,1,VIAL,1,IV
+84,112662,283181.0,BASE,5% Dextrose,250mL Bag,250,mL,250,IV DRIP
+85,112662,283181.0,BASE,0.9% Sodium Chloride,1000mL Bag,1000,mL,1,IV
+86,112662,283181.0,BASE,D5W,100mL Bottle,100,mL,1,IV DRIP
+87,112662,,MAIN,Pantoprazole Sodium,40mg Vial,40,mg,1,IV
+88,112662,,MAIN,Vancomycin,1g Frozen Bag,1000,mg,1,IV
+89,112662,,MAIN,CefePIME,2g Vial,2,gm,1,IV
+90,112662,,MAIN,MetRONIDAZOLE (FLagyl),500mg Premix Bag,500,mg,1,IV
+91,112662,,MAIN,Vancomycin,1g Frozen Bag,1000,mg,1,IV
+92,112662,,MAIN,CefePIME,1g Vial,1,g,10,IV
+93,112662,,MAIN,Furosemide,100mg/10mL Vial,100,mg,1,IV DRIP
+94,112662,283181.0,MAIN,Furosemide,100mg/10mL Vial,100,mg,1,IV DRIP
+95,112662,283181.0,MAIN,Pantoprazole Sodium,40mg Vial,40,mg,1,IV
+96,112662,283181.0,MAIN,Norepinephrine,4mg/4mL Amp,8,mg,2,IV DRIP
+97,112662,283181.0,MAIN,Morphine Sulfate,100mg/100mL Premix,100,mg,1,IV DRIP

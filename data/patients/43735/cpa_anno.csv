@@ -1,0 +1,2 @@
+,source,target,label
+0,drug,dose_val_rx,https://biomedit.ch/rdf/sphn-schema/sphn#hasValue
