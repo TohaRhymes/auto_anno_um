@@ -7,7 +7,7 @@ Supervisors: Shervin Mehryar, Dr. Remzi Celebi
 
 # Project
 
-!!!!!!!!TODO<Project description>!!!!!!!!!!!
+!!!!!!!!TODO: Project description>!!!!!!!!!!!
 
 # Github Directory structure
 
@@ -32,29 +32,37 @@ Supervisors: Shervin Mehryar, Dr. Remzi Celebi
 
 ## CTA
 
-!!!!!!!!TODO<about cross validation>!!!!!!!!!!!
+!!!!!!!!TODO: about cross validation>!!!!!!!!!!!
 
 Result:
-    - `CTA_finished/CTA_merged.csv` -- for all tables
-    - `all_anno/*_anno.xlsx` -- for each patient (`CTA_CEA` sheet)
+- `CTA_finished/CTA_merged.csv` -- for all tables
+- `all_anno/*_anno.xlsx` -- for each patient (`CTA_CEA` sheet)
 ## CPA
 
-!!!!!!!!TODO<about 2 formats>!!!!!!!!!!!
+!!!!!!!!TODO: about 2 formats>!!!!!!!!!!!
 
 Result:
-    - `all_anno/*_anno.xlsx`, `CEA_short` sheet: ...
-    - `all_anno/*_anno.xlsx`, `CEA_long` sheet: ...
+- `all_anno/*_anno.xlsx`, `CEA_short` sheet: ...
+- `all_anno/*_anno.xlsx`, `CEA_long` sheet: ...
 
 ## CEA
-!!!!!!!!TODO<description needed>!!!!!!!!!!!
+!!!!!!!!TODO: description needed>!!!!!!!!!!!
+
 Result:
-    - `all_anno/*_anno.xlsx` -- for each patient (`CTA_CEA` sheet)
+- `all_anno/*_anno.xlsx` -- for each patient (`CTA_CEA` sheet)
 
 
 # References
 
+!!!!!!!!TODO: format!!!!!!!!!!!
+
+
 [] Shervin Mehryar and Remzi Celebi. “Semantic Annotation of Tabular Data for Machine-to-Machine Interoperability via Neuro-Symbolic Anchoring”. In: SemTab’23: Semantic Web Challenge on Tabular Data to Knowledge Graph Matching 2023, co-located with the 22nd International Semantic Web Conference (ISWC). Corresponding author: Shervin Mehryar (shervin.mehryar@maastrichtuniversity.nl). CEUR Workshop Proceedings. Athens, Greece, Nov. 2023. url: http://ceur-ws.org/Vol-3557/paper5.pdf.
+
 [] MIMIC
+
 [] SEMTAB
+
 [] SDM RDFizer
+
 [] morph-kgc
