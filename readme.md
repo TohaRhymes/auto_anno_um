@@ -27,6 +27,8 @@ This project focuses on the automated annotation of the MIMIC III Demo dataset, 
 - `tools_usage` - samples configurations for tools, that can be needed for future:
     - `initial.cfg` - example usage of SDM-RDFizer
     - `run.sh` - example running configuration of morph-kgc
+- `16-PresentationPhase3.pdf` - final presentation;
+- `16-ReportPhase3.pdf` - final report.
 
 # Annotation Structure
 
